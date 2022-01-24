@@ -1,0 +1,36 @@
+                                                                              
+                                                                                        Building an Application Using Grunt Build Tools:
+
+
+*Tools used in this application:
+  visual studio code
+  grunt.js
+  github for uploading
+
+In this project I created the grunt file that will do some operations and the tasks which are included in this project are:
+
+1.live reload:watch
+2.contrib-imagemin
+3.contrib-autoprefixer
+4.contrib-cssmin
+5.copy :that is backup of the css file in the destination
+6.uglifying the javascript file
+
+The Commands used in this application are:
+1.grunt
+2.npm install grunt-cli-g
+3.npm init
+4.npm install grunt-autoprefixer  --save-dev
+5.npm install grunt-contrib-watch --save-dev
+6.npm install grunt-contrib-cssmin --save-dev
+7.npm install grunt-contrib-uglify --save-dev
+8.npm install grunt-contrib-imagemin --save-dev
+9.grunt watch
+10.grunt cssmin
+11.grunt minifyNewImages
+12.grunt uglify
+13.grunt build
+
+The above are the tasks which are performed in the project i have included the screenshots also for the reference
+
+Thank You Shilpashree TN,
